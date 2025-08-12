@@ -27,39 +27,43 @@
   - Sales enquiries
 #### SOLUTIONS:
 **Artisans:**
- - Start now
- - Contact sales
+- Start now
+- Contact sales
   - user support
   - sales Enquiries
     
 **Agencies:**
- - Start now
- - Contact sales
+- Start now
+- Contact sales
   - user support
   - sales Enquiries
     
 **Government Agencies:**
- - Start now responding
- - Contact sales
+- Start now responding
+- Contact sales
   - user support
   - sales enquiries
+  
 **Corporate clients:**
- - Start now
- - Contact sales
+- Start now
+- Contact sales
   - user support
   - sales enquiries
+    
 **Individual users:**
- - Start now responding
- - Contact sales
-   - user support
-   - sales enquiries
+- Start now responding
+- Contact sales
+  - user support
+  - sales enquiries
+  
 **Contact:**
  - User support
  - Sales Enquiries
+   
 ### Headers:
 - Explore services
 - Become a provider
 - Gigamico for everyone
-For Business provider
-For skilled service provider
-For Agencies
+- For Business provider
+- For skilled service provider
+- For Agencies
